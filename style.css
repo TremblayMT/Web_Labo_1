@@ -1,0 +1,16 @@
+body {
+    background-color: #669f23;
+}
+
+h1, h2 {
+    font-weight: bold;
+    font-size: 250%;
+}
+
+p.index {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+  }
